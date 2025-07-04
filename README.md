@@ -1,4 +1,4 @@
-# Spreadsheet Application
+# Spreadsheet Application..
 
 A modern, responsive spreadsheet interface built with React and TypeScript. This application provides an intuitive data management experience with features like filtering, sorting, and real-time data visualization.
 
